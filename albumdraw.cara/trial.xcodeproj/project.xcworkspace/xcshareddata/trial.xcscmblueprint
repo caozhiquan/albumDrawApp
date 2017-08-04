@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1838CA0014627D1998F637EABE3A5175D8413332",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1838CA0014627D1998F637EABE3A5175D8413332" : 9223372036854775807,
+    "5969A2F8B73FA57A4A836B845A854A8CCE82AE4D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E92231BA-EE0C-4FC8-8D07-8AF968A20593",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1838CA0014627D1998F637EABE3A5175D8413332" : "trial%20cara\/",
+    "5969A2F8B73FA57A4A836B845A854A8CCE82AE4D" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "trial",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trial.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/caozhiquan\/AlbumAppCode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1838CA0014627D1998F637EABE3A5175D8413332"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/caozhiquan\/albumDrawApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5969A2F8B73FA57A4A836B845A854A8CCE82AE4D"
+    }
+  ]
+}

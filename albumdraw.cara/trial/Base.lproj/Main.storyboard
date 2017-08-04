@@ -40,7 +40,7 @@
                                     </barButtonItem>
                                 </items>
                             </toolbar>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="EV1-kW-1P2">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="pic" translatesAutoresizingMaskIntoConstraints="NO" id="EV1-kW-1P2">
                                 <rect key="frame" x="0.0" y="70" width="834" height="992"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="x5V-g2-pl4" userLabel="tempImageView">
@@ -94,4 +94,7 @@
             <point key="canvasLocation" x="25" y="59.765624999999993"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="pic" width="284" height="177"/>
+    </resources>
 </document>

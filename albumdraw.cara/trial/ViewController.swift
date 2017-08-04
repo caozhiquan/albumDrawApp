@@ -32,9 +32,9 @@ UINavigationControllerDelegate {
     
     @IBOutlet weak var tempImageView: UIImageView!
     var lastPoint = CGPoint.zero
-    var red: CGFloat = 80/255
-    var green: CGFloat = 80/255
-    var blue: CGFloat = 80/255
+    var red: CGFloat = 204/255
+    var green: CGFloat = 153/255
+    var blue: CGFloat = 51/255
     var brushWidth: CGFloat = 5.0
     var opacity: CGFloat = 1.0
     var swiped = false
@@ -157,7 +157,8 @@ UINavigationControllerDelegate {
         }
     }
     func noCamera(){
-        let alertVC = UIAlertController(
+    
+            let alertVC = UIAlertController(
             title: "No Camera",
             message: "Sorry, this device has no camera",
             preferredStyle: .alert)
@@ -165,11 +166,14 @@ UINavigationControllerDelegate {
             title: "OK",
             style:.default,
             handler: nil)
+        
+        
         alertVC.addAction(okAction)
         present(
             alertVC,
             animated: true,
             completion: nil)
+        
     }
     
     
